@@ -7,7 +7,7 @@
 -->
 
 ### My Interest 😄 
-Sensor Fusion, LiDAR-based SLAM, Visual-Inertial Odometry, Localization, Unmanned Ground Vehicle
+Deep-SLAM, Multi-modal learning, Sensor fusion
 <br>
 
 ### Skills 🛠
