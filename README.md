@@ -28,9 +28,7 @@ Deep-SLAM, Multi-modal learning, Sensor fusion
 <img src="https://img.shields.io/badge/Inventor-FF8800?style=flat-square&logo=Autodesk&logoColor=white"/></a>
 <br>
  
-[![zang09's GitHub stats](https://github-readme-stats.vercel.app/api?username=zang09&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zang09&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![zang09's GitHub stats](https://github-readme-stats.vercel.app/api?username=zang09&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zang09&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **zang09/zang09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
