@@ -11,10 +11,21 @@ Deep-SLAM, Multi-modal learning, Sensor fusion
 <br>
 
 ### Skills 🛠
-<img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/MATLAB-37BEFF?style=for-the-badge&logo=Mathworks&logoColor=white" /></a> 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/></a>
+<br>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/ROS1-22314E?style=flat-square&logo=ROS&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ROS&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white" /></a>
+<br>
+<img src="https://img.shields.io/badge/MATLAB-37BEFF?style=flat-square&logo=Mathworks&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=STMicroelectronics&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Inventor-FF8800?style=flat-square&logo=Autodesk&logoColor=white"/></a>
 <br>
  
 [![zang09's GitHub stats](https://github-readme-stats.vercel.app/api?username=zang09&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
