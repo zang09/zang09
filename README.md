@@ -20,8 +20,8 @@ Deep-SLAM, Multi-modal learning, Sensor fusion
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/ROS1-22314E?style=flat-square&logo=ROS&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ROS&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/JAVA-EE4C2C?style=flat-square&logo=JAVA&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=Qt&logoColor=black" /></a>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=black" /></a>
 <br>
 <img src="https://img.shields.io/badge/MATLAB-FF7D00?style=flat-square&logo=mathworks&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=STMicroelectronics&logoColor=white"/></a>
