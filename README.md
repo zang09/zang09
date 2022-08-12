@@ -20,12 +20,14 @@ Deep-SLAM, Multi-modal learning, Sensor fusion
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/ROS1-22314E?style=flat-square&logo=ROS&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ROS&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/JAVA-EE4C2C?style=flat-square&logo=JAVA&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white" /></a>
 <br>
-<img src="https://img.shields.io/badge/MATLAB-37BEFF?style=flat-square&logo=Mathworks&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/MATLAB-FF7D00?style=flat-square&logo=mathworks&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=STMicroelectronics&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Inventor-FF8800?style=flat-square&logo=Autodesk&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/PADS-37BEFF?style=flat-square&logo=MentorGraphics&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Inventor-0696D7?style=flat-square&logo=Autodesk&logoColor=white"/></a>
 <br>
  
 [![zang09's GitHub stats](https://github-readme-stats.vercel.app/api?username=zang09&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zang09&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
