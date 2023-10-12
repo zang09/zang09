@@ -1,4 +1,4 @@
-## Hi there 👋 I'm zang09
+## Hi there 👋 I'm haebeom
 
 <!--
 ![GitHub User's stars](https://img.shields.io/github/stars/zang09?affiliations=OWNER&style=flat-square)
@@ -7,9 +7,10 @@
 -->
 
 ### My Interest 😄 
-Deep-SLAM, Multi-modal learning, Sensor fusion
+NeRF, Deep-SLAM and Sensor fusion
 <br>
 
+<!--
 ### Skills 🛠
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/></a>
@@ -29,9 +30,11 @@ Deep-SLAM, Multi-modal learning, Sensor fusion
 <img src="https://img.shields.io/badge/PADS-37BEFF?style=flat-square&logo=MentorGraphics&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/Inventor-0696D7?style=flat-square&logo=Autodesk&logoColor=white"/></a>
 <br>
+-->
 
 <!--
 [![zang09's GitHub stats](https://github-readme-stats.vercel.app/api?username=zang09&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zang09&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <!--
 **zang09/zang09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
