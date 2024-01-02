@@ -7,7 +7,7 @@
 -->
 
 ### My Interest 😄 
-NeRF, Deep-SLAM and Sensor fusion
+Novel view synthesis and 3D reconstruction
 <br>
 
 <!--
