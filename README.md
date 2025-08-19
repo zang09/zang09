@@ -7,7 +7,7 @@
 -->
 
 ### My Interest 😄 
-Novel view synthesis and 3D reconstruction
+Sensor Calibration, Novel View Synthesis, and 3D Reconstruction
 <br>
 
 <!--
