@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Haebeom Jung
 
-My research interests focus on **Sensor Calibration**, **Novel View Synthesis**, and **3D Reconstruction.**
+My research interests focus on **Robotics**, **Sensor Fusion**, and **3D Reconstruction.**
 
 <!--
 **zang09/zang09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
